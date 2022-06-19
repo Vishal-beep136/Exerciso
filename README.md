@@ -10,4 +10,4 @@ Features
  - Releated Exercises
  - Similar exercises with equipments
 
-This project is deployed in **netlify** you can see it [Here](https://exerciso.netlify.app/)
+This project is deployed in **Netlify**. You can see it [Here](https://exerciso.netlify.app/)
